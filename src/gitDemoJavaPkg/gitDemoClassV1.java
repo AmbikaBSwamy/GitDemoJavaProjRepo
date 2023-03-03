@@ -7,7 +7,9 @@ public class gitDemoClassV1
 		System.out.println("Say Hello to Git !");
 
 		System.out.println("Hiii");
-		System.out.println("Ambika says hi !!");			
+		System.out.println("Ambika says hi !!");	
+		System.out.println("Hello");
+
 
 	}
 }
